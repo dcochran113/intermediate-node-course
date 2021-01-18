@@ -1,0 +1,2 @@
+Start: brew services start mongodb/brew/mongodb-community
+Shell: mongo
